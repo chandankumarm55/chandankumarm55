@@ -15,6 +15,6 @@
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Netlify](https://img.icons8.com/color/48/000000/netlify.png)
-![Vercel](https://img.icons8.com/color/48/000000/vercel.png)
+![Netlify](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png)
+![Vercel](https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
