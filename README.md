@@ -19,6 +19,9 @@ Hi, I'm **Chandan**! I'm a passionate developer specializing in the **MERN stack
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chandankumarm55&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarm55&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandankumarm55&" alt="chandankumarm" /></p>
+
+<h3 align="left">Languages and Tools:</h3>
 ---
 [![](https://visitcount.itsvg.in/api?id=chandankumarm55&icon=0&color=0)](https://visitcount.itsvg.in)
 
